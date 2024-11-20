@@ -1,5 +1,4 @@
 LOCAL
-
 # conflits
 
 quelques
