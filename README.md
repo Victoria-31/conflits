@@ -1,4 +1,6 @@
+LOCAL
+
 # conflits
 
-quelques 
+quelques
 lignes
